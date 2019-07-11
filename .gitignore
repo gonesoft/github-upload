@@ -1,0 +1,14 @@
+*.sln
+*.suo
+*.resx
+*.csproj
+*.user
+*.cache
+*.dll
+*.pdb
+*.exe
+*.settings
+*.png
+*.jpg
+*.resources
+
