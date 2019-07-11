@@ -1,0 +1,8 @@
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\bin\Release\Lookups.dll
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\bin\Release\Lookups.pdb
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Release\Lookups.csprojResolveAssemblyReference.cache
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Release\Lookups.Lookups.resources
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Release\Lookups.Properties.Resources.resources
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Release\Lookups.csproj.GenerateResource.Cache
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Release\Lookups.dll
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Release\Lookups.pdb

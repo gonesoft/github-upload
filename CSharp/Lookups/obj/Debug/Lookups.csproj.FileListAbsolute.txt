@@ -1,0 +1,10 @@
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\bin\Debug\Lookups.dll
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\bin\Debug\Lookups.pdb
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Debug\Lookups.Lookups.resources
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Debug\Lookups.Properties.Resources.resources
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Debug\Lookups.csproj.GenerateResource.Cache
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Debug\Lookups.dll
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Debug\Lookups.pdb
+C:\Program Files (x86)\Microsoft Dynamics\GP2015\AddIns\Lookups.dll
+C:\Program Files (x86)\Microsoft Dynamics\GP2015\AddIns\Lookups.pdb
+C:\Users\gsosa\Documents\Samples\Samples\Lookups\CSharp\Lookups\obj\Debug\Lookups.csprojResolveAssemblyReference.cache
